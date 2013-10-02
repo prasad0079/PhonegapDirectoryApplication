@@ -7,7 +7,7 @@
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="32ad679b-c95c-429e-a403-e61248c419b4" time="1380717027286" ignored="false" />
+    <file path="/Dummy.txt" changelist="32ad679b-c95c-429e-a403-e61248c419b4" time="1380717754702" ignored="false" />
     <file path="/namedconfig.xml" changelist="32ad679b-c95c-429e-a403-e61248c419b4" time="1380699773698" ignored="false" />
     <file path="/index.html" changelist="32ad679b-c95c-429e-a403-e61248c419b4" time="1380701099540" ignored="false" />
     <file path="/main.js" changelist="32ad679b-c95c-429e-a403-e61248c419b4" time="1380704828177" ignored="false" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="53" selection-start="92" selection-end="92" vertical-scroll-proportion="0.035051547">
+            <state line="8" column="9" selection-start="288" selection-end="288" vertical-scroll-proportion="0.28041238">
               <folding />
             </state>
           </provider>
@@ -228,11 +228,15 @@
       <created>1380717185389</created>
       <updated>1380717185389</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated.">
+      <created>1380717757672</created>
+      <updated>1380717757672</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1350" height="908" extended-state="6" />
+    <frame x="-4" y="-4" width="1350" height="908" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939634" sideWeight="0.4996209" order="7" side_tool="false" content_ui="tabs" />
@@ -411,7 +415,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="53" selection-start="92" selection-end="92" vertical-scroll-proportion="0.035051547">
+        <state line="8" column="9" selection-start="288" selection-end="288" vertical-scroll-proportion="0.28041238">
           <folding />
         </state>
       </provider>
